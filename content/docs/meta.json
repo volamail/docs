@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "pages": [
+    "index",
+    "---Editor---",
+    "editor/getting-started",
+    "---Rest API---",
+    "rest-api/send",
+    "---Self-hosting---",
+    "self-hosting/guide"
+  ]
+}
